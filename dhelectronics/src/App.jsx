@@ -46,8 +46,8 @@ export default function App() {
         <h2 className="text-2xl font-semibold mb-4">የእርስዎ Online ላይ ኤሌክትሮኒክስ ሱቅ</h2>
         <p className="text-lg mb-6">Phones, Laptops, Tablets, Headsets & More</p>
         <p className="text-md mb-6">ስልኮች፣ ላፕቶፖች፣ ታብሌቶች፣ ሆድሴቶች እና ሌሎችም</p>
-        <a href="#products" className="bg-yellow-400 text-black px-6 py-3 rounded-lg font-bold hover:bg-yellow-300">
-          Shop Now / አሁን ይግዙ
+        <a href="https://t.me/dp_chat1" target="_blank" rel="noopener noreferrer" className="hover:text-blue-800">
+           Shop Now / አሁን ይግዙ
         </a>
       </section>
 
